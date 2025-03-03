@@ -37,4 +37,4 @@ Support Multi Accounts
 
 
 
-#### Credit : AirdropInsider😊
+#### Credit : Credit-Respective Owner

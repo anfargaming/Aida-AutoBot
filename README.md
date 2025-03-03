@@ -34,3 +34,7 @@ node aida.js
 
 Auto Complete all task exclude Invite Friends
 Support Multi Accounts
+
+
+
+#### Credit : AirdropInsider😊

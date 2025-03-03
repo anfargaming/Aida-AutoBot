@@ -3,8 +3,10 @@
 ## Step 1
 
 ```bash
- git clone https://github.com/anfargaming/Aida-AutoBot.git ```
-``` cd Aida-AutoBot
+ git clone https://github.com/anfargaming/Aida-AutoBot.git
+```
+```bash
+ cd Aida-AutoBot
 ```
 
 ## Step 2

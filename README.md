@@ -37,4 +37,4 @@ Support Multi Accounts
 
 
 
-#### Credit : Credit-Respective Owner
+#### Credit : Respective Owner
